@@ -1,4 +1,4 @@
-//Generic functions
+﻿//Generic functions
 
 //DEBOUNCING - Execute every X ms after previous event
 function debounce(func, wait, immediate) {
